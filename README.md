@@ -1,6 +1,6 @@
 # 1234-devops
 using for devops configurations
-git branching strategy:
+#branching Strategy
 main branch
 develop
 bigfix
